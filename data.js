@@ -75,7 +75,7 @@ export const data = `
         "brand": "Vivienne Sabo",
         "name": "Тени для век",
         "price": "4000",
-        "image_link": "https://avatars.mds.yandex.net/get-mpic/1861069/img_id7941442425133798617.png/600x800",
+        "image_link": "https://makeup.ru/storage/articles/16494/conversions/qx96hYhLH86u31t32cobfMXbhOAJJqRo-content_front.jpg",
         "description": "Пигменты Pure Light Capture® придают цвет и сияние. Шелковистые и освежающе легкие тени для век Pure Argan невесомы на веках. ",
         "product_type": "Тени",
         "created_at": "2022-06-30"
